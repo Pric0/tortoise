@@ -1,4 +1,4 @@
-# tortoise
+# tortoise - Медиа Комбаин
 Play media. Manage media. Sync media.
 
 Возможности:
