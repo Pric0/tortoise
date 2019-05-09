@@ -2,8 +2,18 @@
     <qresource prefix="/">
         <file>main.qml</file>
         <file>qtquickcontrols2.conf</file>
-        <file>MusicBrowser.qml</file>
-        <file>Player.qml</file>
-        <file>IncommingBrowser.qml</file>
+        <file>DBasePanel.qml</file>
+        <file>schema.sql</file>
+        <file>ViewPage.qml</file>
+        <file>SearchInput.qml</file>
+        <file>TrackDelegate.qml</file>
+        <file>ArtistFilterDelegate.qml</file>
+        <file>DialogTagEdit.qml</file>
+        <file>media-player/items/Equalizer.qml</file>
+        <file>media-player/items/TrackSlider.qml</file>
+        <file>media-player/MusicPlayerPanel.qml</file>
+        <file>PlaylistTrackDelegate.qml</file>
+        <file>PlaylistPanel.qml</file>
+        <file>TrackDelegateAlbums.qml</file>
     </qresource>
 </RCC>

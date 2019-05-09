@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>icon/download-file.svg</file>
+        <file>icon/featured.svg</file>
+        <file>icon/full-screen-1.svg</file>
+        <file>icon/full-screen-2.svg</file>
+        <file>icon/minimize-1.svg</file>
+        <file>icon/minimize-2.svg</file>
+        <file>icon/music.svg</file>
+        <file>icon/next-song.svg</file>
+        <file>icon/pause.svg</file>
+        <file>icon/picture-in.svg</file>
+        <file>icon/picture-out.svg</file>
+        <file>icon/play.svg</file>
+        <file>icon/playlist.svg</file>
+        <file>icon/radio-1.svg</file>
+        <file>icon/radio-2.svg</file>
+        <file>icon/repeat-1.svg</file>
+        <file>icon/repeat-all.svg</file>
+        <file>icon/rewind-b.svg</file>
+        <file>icon/rewind-f.svg</file>
+        <file>icon/shuffle.svg</file>
+        <file>icon/volume-max.svg</file>
+        <file>icon/volume-min.svg</file>
+        <file>icon/volume-off.svg</file>
+        <file>icon/sketch.svg</file>
+        <file>icon/timer.svg</file>
+    </qresource>
+</RCC>

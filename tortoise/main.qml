@@ -1,62 +1,69 @@
-import QtQuick 2.11
-import QtQuick.Controls 2.4
+import QtQuick 2.7
+import QtQuick.Controls 2.0
+
+import "media-player"
 
 ApplicationWindow {
     id: window
     visible: true
     width: 640
+    minimumWidth: 640
     height: 480
-    title: qsTr("Tortoise")
+    minimumHeight: 480
+    title: "Tortoise"
 
-    header: ToolBar {
-        contentHeight: 40
+    header: MusicPlayerPanel{
+        height: 100
+        width: parent.width
+    }
 
-        Row {
+    footer: Rectangle {
+        width: parent.width
+        height: 20
+        color: "#717171"
 
-            ToolButton {
-                text: "Коллекция"
-                font.pixelSize: Qt.application.font.pixelSize * 1.6
-                checked: text === stackView.currentItem.title
-                onClicked: {
-                    stackView.replace("qrc:/MusicBrowser.qml")
-                }
-            }
-
-            ToolButton {
-                text: "Входящие"
-                font.pixelSize: Qt.application.font.pixelSize * 1.6
-                checked: text === stackView.currentItem.title
-                onClicked: {
-                    stackView.replace("qrc:/IncommingBrowser.qml")
-                }
-            }
-
+        Text {
+            width: parent.width
+            height: parent.height
+            text: mainWin.status
         }
     }
 
     Column {
-        anchors.fill: parent
+        id: column
+        width: parent.width
+        height: parent.height
 
-        StackView {
-            id: stackView
-            initialItem: "MusicBrowser.qml"
+        Row {
             width: parent.width
-            height: parent.height - 40
+            height: 30
+
+            DBasePanel {
+                width: parent.width
+                height: parent.height
+            }
+
         }
 
-        Player {
-            id: player
+        Row {
             width: parent.width
-            height: 40
+            height: parent.height - 30
+
+            StackView {
+                id: stackView
+                height: parent.height
+                width: parent.width - playlistPanel.width
+                initialItem: "ViewPage.qml"
+            }
+
+            PlaylistPanel {
+                id: playlistPanel
+                width: Math.max(parent.width/3, 100)
+                height: parent.height
+
+            }
         }
+
+
     }
 }
-/*##^## Designer {
-    D{i:33;anchors_height:400;anchors_width:200}
-}
- ##^##*/
-
-/*##^## Designer {
-    D{i:33;anchors_height:400;anchors_width:200}
-}
- ##^##*/
