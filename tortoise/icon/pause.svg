@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="36px" viewBox="0 0 28 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>pause</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Stage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-283.000000, -104.000000)" fill="#FFFFFF">
+            <path d="M284,104 L292,104 C292.552285,104 293,104.447715 293,105 L293,139 L293,139 C293,139.552285 292.552285,140 292,140 L284,140 C283.447715,140 283,139.552285 283,139 L283,105 L283,105 C283,104.447715 283.447715,104 284,104 L284,104 Z M302,104 L310,104 C310.552285,104 311,104.447715 311,105 L311,139 C311,139.552285 310.552285,140 310,140 L302,140 C301.447715,140 301,139.552285 301,139 L301,105 L301,105 C301,104.447715 301.447715,104 302,104 Z" id="pause"></path>
+        </g>
+    </g>
+</svg>

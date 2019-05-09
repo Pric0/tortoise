@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="36px" viewBox="0 0 42 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>volume-off</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Stage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-788.000000, -104.000000)" fill-rule="nonzero" fill="#FFFFFF">
+            <path d="M797,116 L790,116 L790,116 C788.895431,116 788,116.895431 788,118 L788,126 C788,127.104569 788.895431,128 790,128 L797,128 L808,140 L808,104 L797,116 Z M821,119.171573 L815.414214,113.585786 L812.585786,116.414214 L818.171573,122 L812.585786,127.585786 L815.414214,130.414214 L821,124.828427 L826.585786,130.414214 L829.414214,127.585786 L823.828427,122 L829.414214,116.414214 L826.585786,113.585786 L821,119.171573 Z" id="volume-off"></path>
+        </g>
+    </g>
+</svg>

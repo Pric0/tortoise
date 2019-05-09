@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>volume-max</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Stage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-617.000000, -103.000000)" fill="#FFFFFF">
+            <path d="M626,116 L619,116 L619,116 C617.895431,116 617,116.895431 617,118 L617,126 C617,127.104569 617.895431,128 619,128 L626,128 L637,140 L637,104 L626,116 Z M641,103.66476 C649.067681,105.859634 655,113.237033 655,122 C655,130.762967 649.067681,138.140366 641,140.33524 L641,136.146471 C646.825962,134.087289 651,128.531094 651,122 C651,115.468906 646.825962,109.912711 641,107.853529 L641,103.66476 Z M641,114.515549 C643.411971,116.130072 645,118.879584 645,122 C645,125.120416 643.411971,127.869928 641,129.484451 L641,114.515549 Z" id="volume-max"></path>
+        </g>
+    </g>
+</svg>

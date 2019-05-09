@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>download</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Stage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-22.000000, -298.000000)" fill="#FFFFFF">
+            <path d="M44,319 L44,307 L40,307 L40,319 L35.4142136,319 C34.8619288,319 34.4142136,319.447715 34.4142136,320 C34.4142136,320.265216 34.5195704,320.51957 34.7071068,320.707107 L34.7071068,320.707107 L41.2928932,327.292893 L41.2928932,327.292893 C41.6834175,327.683418 42.3165825,327.683418 42.7071068,327.292893 L49.2928932,320.707107 C49.6834175,320.316582 49.6834175,319.683418 49.2928932,319.292893 C49.1053568,319.105357 48.8510029,319 48.5857864,319 L44,319 Z M42,338 C30.954305,338 22,329.045695 22,318 C22,306.954305 30.954305,298 42,298 C53.045695,298 62,306.954305 62,318 C62,329.045695 53.045695,338 42,338 Z" id="download"></path>
+        </g>
+    </g>
+</svg>

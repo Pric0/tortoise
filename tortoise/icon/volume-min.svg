@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="36px" viewBox="0 0 28 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>volume-min</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Stage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-704.000000, -104.000000)" fill="#FFFFFF">
+            <path d="M713,116 L706,116 L706,116 C704.895431,116 704,116.895431 704,118 L704,126 C704,127.104569 704.895431,128 706,128 L713,128 L724,140 L724,104 L713,116 Z M728,114.515549 C730.411971,116.130072 732,118.879584 732,122 C732,125.120416 730.411971,127.869928 728,129.484451 L728,114.515549 Z" id="volume-min"></path>
+        </g>
+    </g>
+</svg>

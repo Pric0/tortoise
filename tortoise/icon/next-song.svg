@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="28px" viewBox="0 0 38 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>next-song</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Stage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-447.000000, -208.000000)" fill-rule="nonzero" fill="#FFFFFF">
+            <path d="M456,228 L447,228 L447,232 L456,232 L456,234.998967 C456,235.207253 456.065037,235.41034 456.186033,235.579878 C456.506861,236.02942 457.131369,236.133763 457.580911,235.812935 L464.586149,230.813451 C464.67619,230.749191 464.754945,230.670435 464.819206,230.580394 C465.140034,230.130852 465.035691,229.506344 464.586149,229.185516 L457.580911,224.186033 L457.580911,224.186033 C457.411373,224.065037 457.208285,224 457,224 C456.447715,224 456,224.447715 456,225 L456,225 L456,228 Z M453,212 L453,208 L485,208 L485,212 L453,212 Z M453,222 L453,218 L485,218 L485,222 L453,222 Z M469,232 L469,228 L485,228 L485,232 L469,232 Z" id="next-song"></path>
+        </g>
+    </g>
+</svg>
