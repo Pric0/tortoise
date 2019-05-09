@@ -1,7 +1,7 @@
 # tortoise - Медиа Комбаин
 Play media. Manage media. Sync media.
 
-Возможности:
+Возможности (ИДЕЯ):
  - Воспроизведение локальных файлов;
  - Каталогизация файлов
 	- хранение файлов по шаблонам (%artist%/%album.year% - %album.name$/%track.number%. %track.name%)
