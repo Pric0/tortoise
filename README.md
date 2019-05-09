@@ -1,7 +1,7 @@
 # tortoise - Медиа Комбаин
 Play media. Manage media. Sync media.
 
-![alt text]( tortoise/Снимок экрана от 2019-05-09 14-04-08.png ) 
+![alt text](preview.png) 
 
 Возможности (ИДЕЯ):
  - Воспроизведение локальных файлов;
